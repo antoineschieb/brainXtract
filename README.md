@@ -56,7 +56,7 @@ The central objective of NeuroGeMM (inserm1231) is to establish an atlas of morp
    - nnUNet
    - 3D Binary Hippocampus
    - 5 fold cross-validation
-   - Training time: 10h (0 fold)
+   - Training time: 10h (each fold)
    - Dice score: 0.88
   ![Hippocampus Segmentation](./03.hp_segmentation/images/hp.jpg)
 
