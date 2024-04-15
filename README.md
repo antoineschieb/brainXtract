@@ -20,7 +20,6 @@ The central objective of NeuroGeMM (inserm1231) is to establish an atlas of morp
 ## Projects:
 - **3D image preprocessing**
 
-### Algorithms 2023
 - **Bottlenecks:**
   1. No AI: Morphological operations, thresholding, connected components
   2. Training a small segmentation model from scratch: UNet
