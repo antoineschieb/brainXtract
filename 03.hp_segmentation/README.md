@@ -1,4 +1,4 @@
-# Hippocampus Segmentation 
+# Automated 3D Microscopic Volume Analysis for Hippocampus Segmentation in Mouse Brain
 
 ## Introduction
 This repository contains scripts and utilities for processing and analyzing medical imaging datasets, particularly focusing on the Hippocampus Segmentation. The scripts are primarily aimed at preprocessing tasks such as data conversion, augmentation, and evaluation.
