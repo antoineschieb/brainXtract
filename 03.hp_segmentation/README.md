@@ -32,7 +32,7 @@ This repository contains scripts and utilities for processing and analyzing medi
 ![Slice View](./images/slice_viewer1.jpg)
 
 ## Prediction
-![Hippocampus Segmentation](./03.hp_segmentation/images/hp.jpg)
+![Hippocampus Segmentation](./images/hp.jpg)
 
 ## Additional Notes
 - This repository is designed to work with the nnUNet framework for medical image segmentation tasks.
