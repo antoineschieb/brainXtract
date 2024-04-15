@@ -59,7 +59,7 @@ The central objective of NeuroGeMM (inserm1231) is to establish an atlas of morp
    - 5 fold cross-validation
    - Training time: 10h (0 fold)
    - Dice score: 0.88
-  ![Hippocampus Segmentation](./hippocampus_segmentation/results/hippocampus_prediction.png)
+  ![Hippocampus Segmentation](./03.hp_segmentation/results/hippocampus_prediction.png)
 
 4. **Pix2pix (Generative Model):**
    - Results images
