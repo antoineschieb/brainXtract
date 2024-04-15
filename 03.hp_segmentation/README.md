@@ -28,8 +28,8 @@ This repository contains scripts and utilities for processing and analyzing medi
   - Model training and evaluation
 
 ## Slice Visualisation
-![Slice View](./03.hp_segmentation/images/slice_viewer.jpg)
-![Slice View](./03.hp_segmentation/images/slice_viewer1.jpg)
+![Slice View](./images/slice_viewer.jpg)
+![Slice View](./images/slice_viewer1.jpg)
 
 ## Prediction
 ![Hippocampus Segmentation](./03.hp_segmentation/images/hp.jpg)
