@@ -1,4 +1,4 @@
-# HPC Dataset README
+# Hippocampus Segmentation 
 
 ## Introduction
 This repository contains scripts and utilities for processing and analyzing medical imaging datasets, particularly focusing on the HPC (High-Performance Computing) dataset. The scripts are primarily aimed at preprocessing tasks such as data conversion, augmentation, and evaluation.
