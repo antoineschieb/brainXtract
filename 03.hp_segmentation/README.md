@@ -29,12 +29,14 @@ This repository contains scripts and utilities for processing and analyzing medi
 
 ## Usage
 - After setup and preprocessing, various utility functions and scripts are available for:
-  - Data visualization
-  - Evaluation metrics calculation
+  - Dataset format prepared 
   - Model training and evaluation
+  - Evaluation metrics calculation
 
 ## Slice Visualisation
+- Slice Viewer 
 ![Slice View](./images/slice_viewer.jpg)
+- Slice Viewer 
 ![Slice View](./images/slice_viewer1.jpg)
 
 ## Prediction
