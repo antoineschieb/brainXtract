@@ -16,7 +16,6 @@ This repository contains scripts and utilities for processing and analyzing medi
    ```bash
    conda create --name hippocampus_seg_env python=3.x
 
-   ```bash
    conda activate hippocampus_seg_env
 
 
