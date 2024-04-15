@@ -9,12 +9,17 @@ This repository contains scripts and utilities for processing and analyzing medi
 - Dependencies listed in `requirements.txt`
 
 ## Setup Instructions
-1. Execute `!nvidia-smi` to check GPU availability.
-2. Import necessary libraries:
-3. Define dataset paths:
-4. Setup environment variables:
-5. Install dependencies:
-6. Preprocess dataset:
+1. **Check GPU Availability**:
+   Execute `!nvidia-smi` to ensure that a compatible NVIDIA GPU is available for accelerated processing.
+
+2. **Create Conda Environment**:
+   ```bash
+   conda create --name hippocampus_seg_env python=3.x
+
+   ```bash
+   conda activate hippocampus_seg_env
+
+
 ## Dataset Information
 - **Training Dataset**: `{BASE_PATH}/dataset/nnUNet_raw_data/{task_name}/imagesTr`
 - **Ground Truth Training Dataset**: `{BASE_PATH}/dataset/nnUNet_raw_data/{task_name}/labelsTr`
