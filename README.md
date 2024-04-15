@@ -65,7 +65,7 @@ The central objective of NeuroGeMM (inserm1231) is to establish an atlas of morp
 
 
 ## Datathon Website:
-For more information about Datathon, visit [Datathon website](https://datathon.fr/).
+For more information about Datathon, visit [Datathon IA4care](https://datathon.fr/).
 
 ## Contributors:
 Victor Alexandre, Stephan Collins, Pierre Lambert, Zhiling Qian, Taiabur Rahman, Laya Salazar Lafon, Antoine Schieb, Emilia Skutunova, Alain Vitrey
